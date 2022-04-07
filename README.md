@@ -13,8 +13,8 @@ Service for buying railway tickets.
 
 ## Getting started
 #### Clone the repository to your local machine:
-* `git clone https://github.com/Kazezova/railway-ticket.git`
-* `cd railway-ticket/railway_project`
+* `git https://github.com/DauletKalesh/Railway_Database_project.git`
+* `cd Railway_Database_project/railway_project`
 #### Install Python 3, if you don't have it installed:
 * https://www.python.org/downloads/
 #### Create and activate a virtual environment:
